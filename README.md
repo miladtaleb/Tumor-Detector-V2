@@ -3,15 +3,21 @@
 This repository contains a machine learning model for classifying medical images using deep learning. The project utilizes VGG19 for image classification.
 
 Table of Contents:
+
 Project Overview
+
 Getting Started
+
 Model Training
+
 License
 
 Project Overview:
+
 This project helps to apply machine learning techniques to medical image classification tasks, such as detecting abnormalities in MRI scans.
 
 Key Features:
+
 Model training on medical imaging datasets.
 Evaluation of model accuracy on the test set.
 
@@ -45,4 +51,5 @@ Labels: The target labels for classification (tumor/no tumor).
 Once the dataset is prepared, you can proceed with training the model.
 
 License:
+
 This project is licensed under the MIT License.
