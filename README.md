@@ -4,13 +4,10 @@ This repository contains a machine learning model for classifying medical images
 
 Table of Contents:
 
-Project Overview
-
-Getting Started
-
-Model Training
-
-License
+    Project Overview
+    Getting Started
+    Model Training
+    License
 
 Project Overview:
 
